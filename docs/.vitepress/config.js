@@ -9,7 +9,7 @@ module.exports = {
   lang: "en-US",
   title: "Domain (www.prime-websites.com) for Sale",
   description: "Domain (www.prime-websites.com) for Sale",
-  // base: "/bp-rating/",
+  // base: "/prime-websites/",
   head: [
     // ["link", { rel: "icon", href: `/assets/favicon.ico` }],
     ["meta", {
@@ -29,7 +29,7 @@ module.exports = {
     ["meta", {
       prefix: ogprefix,
       property: "og:url",
-      content: "https://draschke.github.io/bp-rating/"
+      content: "https://draschke.github.io/prime-websites/"
     }],
     ["meta", {
       prefix: ogprefix,
@@ -59,7 +59,7 @@ module.exports = {
     ["meta", {
       prefix: ogprefix,
       property: "og:image",
-      content: "https://draschke.github.io/bp-rating/bp-rating-clinic-1200_627.jpg"
+      content: "https://draschke.github.io/prime-websites/best-price-rating-1200_627.jpg"
     }],
     ["meta", {
       prefix: ogprefix,
@@ -74,7 +74,7 @@ module.exports = {
     ["meta", {
       prefix: ogprefix,
       property: "og:image",
-      content: "https://draschke.github.io/bp-rating/bp-rating-clinic-600_314.jpg"
+      content: "https://draschke.github.io/prime-websites/best-price-rating-600_314.jpg"
     }],
     ["meta", {
       prefix: ogprefix,
@@ -90,7 +90,7 @@ module.exports = {
     ["meta", {
       prefix: ogprefix,
       property: "og:image",
-      content: "https://draschke.github.io/bp-rating/bp-rating-clinic-1200_627.jpg"
+      content: "https://draschke.github.io/prime-websites/best-price-rating-1200_627.jpg"
     }],
     ["meta", {
       prefix: ogprefix,
@@ -123,7 +123,7 @@ module.exports = {
     }],
     ["meta", {
       name: "twitter:image",
-      content: "https://draschke.github.io/bp-rating/bp-rating-clinic-1200_627.jpg"
+      content: "https://draschke.github.io/prime-websites/best-price-rating-1200_627.jpg"
     }],
     ["meta", {
       name: "description",
@@ -147,7 +147,7 @@ module.exports = {
     lineNumbers: true,
   },
   themeConfig: {
-    repo: "draschke/bp-rating",
+    repo: "draschke/prime-websites",
     docsDir: "docs",
 
     editLinks: false,
@@ -160,7 +160,7 @@ module.exports = {
       }
       // {
       //   text: "Release Notes",
-      //   link: "https://github.com/draschke/bp-rating/releases",
+      //   link: "https://github.com/draschke/prime-websites/releases",
       // },
     ],
 
