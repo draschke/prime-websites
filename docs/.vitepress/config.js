@@ -1,14 +1,14 @@
 let ogprefix = "og: http://ogp.me/ns#";
-let title = "Domain (www.prime-websites.com) for Sale";
-let description = "Domain (www.prime-websites.com) for Sale";
+let title = "Domain www.prime-websites.com for Sale";
+let description = "Domain www.prime-websites.com for Sale";
 let color = "#f42525";
 let author = "Dirk Raschke";
 let email = "draschke@googlemail.com";
 
 module.exports = {
   lang: "en-US",
-  title: "Domain (www.prime-websites.com) for Sale",
-  description: "Domain (www.prime-websites.com) for Sale",
+  title: "Domain www.prime-websites.com for Sale",
+  description: "Domain www.prime-websites.com for Sale",
   // base: "/prime-websites/",
   head: [
     // ["link", { rel: "icon", href: `/assets/favicon.ico` }],

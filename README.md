@@ -1,4 +1,4 @@
-# Prime websites domain (www.prime-websites.com) for Sale
+# Domain www.prime-websites.com for Sale
 
 <p align='center'>
 I'm Dirk 👨‍💻, Germany (Berlin)
